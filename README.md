@@ -11,7 +11,7 @@ Backend (Python, Flask)
 
 Installation Guide:
 
-git clone https://github.com/your-username/mp3-streamer.git
+git clone https://github.com/yuiparrk/MP3-Downloader-and-Music-Player.git
 
 cd mp3-streamer
 
