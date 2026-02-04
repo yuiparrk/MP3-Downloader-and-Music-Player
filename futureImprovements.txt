@@ -1,0 +1,3 @@
+pretty sure this completely breaks if there are like question marks
+make this a phone app somehow
+quality adjuster? i would have to find a different package i think
