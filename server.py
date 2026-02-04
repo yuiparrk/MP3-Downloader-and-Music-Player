@@ -14,6 +14,16 @@ def index():
     return send_from_directory(".", "index.html")
 
 
+@app.route("/styles.css")
+def styles():
+    return send_from_directory(".", "styles.css")
+
+
+@app.route("/script.js")
+def script():
+    return send_from_directory(".", "script.js")
+
+
 # this part is basically jsut documentation
 @app.route("/download", methods=["POST"])
 def download_mp3():
