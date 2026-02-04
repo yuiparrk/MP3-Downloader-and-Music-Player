@@ -12,7 +12,11 @@ Backend (Python, Flask)
 Installation Guide:
 
 git clone https://github.com/your-username/mp3-streamer.git
+
 cd mp3-streamer
+
 python -m venv venv
+
 pip install Flask pytubefix
+
 python server.py
